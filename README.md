@@ -18,4 +18,4 @@
    </td>
    </tr>
 </table><br>
-<p><img align="center" src="https://img.shields.io/github/followers/BriceTatongK?label=Follow&style=social" /> |   <img align="center" src="https://komarev.com/ghpvc/?username=BriceTatongK" /></p>
+<p><img align="center" src="https://img.shields.io/github/followers/BriceTatongK?label=Follow&style=social" /> |   <img align="center" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BriceTatongK&layout=compact)" /></p>
