@@ -8,12 +8,12 @@
   <tr>
    <td>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BriceTatongK&layout=donut" />
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=BriceTatongK&show_icons=true&count_private=true&theme=tokyonight" />
     </a>
    </td>
    <td>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BriceTatongK&layout=compact" />
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BriceTatongK&layout=donut" />
     </a>
    </td>
    </tr>
