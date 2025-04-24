@@ -16,13 +16,7 @@
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BriceTatongK&theme=tokyonight" />
     </a>
    </td>
-  </tr>
-  <tr>
-   <td align="center">
-    <img align="center" src="https://img.shields.io/github/followers/BriceTatongK?label=Follow&style=social" />
-   </td>
-   <td align="center">
-    <img align="center" src="https://komarev.com/ghpvc/?username=BriceTatongK" />
-   </td>
-  </tr>
-</table>
+   </tr>
+</table><br>
+<p> Followers: <img align="center" src="https://img.shields.io/github/followers/BriceTatongK?label=Follow&style=social" /></p>
+<p> Views: <img align="center" src="https://img.shields.io/github/followers/BriceTatongK?label=Follow&style=social" /></p>
