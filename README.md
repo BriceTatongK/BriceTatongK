@@ -18,5 +18,4 @@
    </td>
    </tr>
 </table><br>
-<p> Followers: <img align="center" src="https://img.shields.io/github/followers/BriceTatongK?label=Follow&style=social" /></p>
-<p> Views: <img align="center" src="https://img.shields.io/github/followers/BriceTatongK?label=Follow&style=social" /></p>
+<p> Followers: <img align="center" src="https://img.shields.io/github/followers/BriceTatongK?label=Follow&style=social" /> | Views: <img align="center" src="https://komarev.com/ghpvc/?username=BriceTatongK" /></p>
