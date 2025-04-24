@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi there, welcome to my GitHub profile <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGp4bjBhdm1tZzZidjNoNXg3Ynlhd2djOWxpN3RkaXZybmpja25seCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e8qvtPuCyKXI4qJK7d/giphy.gif" width="50">
 
-<!--
-**BriceTatongK/BriceTatongK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <table>
+  <tr>
+    <th>GitHub stats</th>
+    <th>Most used languages</th>
+  </tr>
+  <tr>
+   <td>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=BriceTatongK&show_icons=true&count_private=true&theme=tokyonight" />
+    </a>
+   </td>
+   <td>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BriceTatongK&theme=tokyonight" />
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    <img align="center" src="https://img.shields.io/github/followers/BriceTatongK?label=Follow&style=social" />
+   </td>
+   <td align="center">
+    <img align="center" src="https://komarev.com/ghpvc/?username=BriceTatongK" />
+   </td>
+  </tr>
+</table>
