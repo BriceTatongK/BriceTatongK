@@ -2,7 +2,7 @@
 
  <table>
   <tr>
-    <th>GitHub stats</th>
+    <th>Stats</th>
     <th>Most used languages</th>
   </tr>
   <tr>
